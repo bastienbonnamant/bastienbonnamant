@@ -1,4 +1,5 @@
 <h1>Hi there, I'm Bastien 👋</h1>
+<img src="https://user-images.githubusercontent.com/79262493/115692452-4a60a380-a35f-11eb-92ad-f3ee36885025.png" width="100%" height="70%">
 
 <p>🔭 I’m currently studiying web developpment at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a></p>
 <p>🏫 I also have a master's degree in digital marketing to which I would like to add technical skills in order to move towards scrum project management in the medium term</p>
