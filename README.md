@@ -14,5 +14,5 @@
 </ul>
 
 <h2> Keep in touch </h2>
-![image](https://user-images.githubusercontent.com/79262493/115686380-6a8d6400-a359-11eb-8196-264e3b561b2e.png)
+
 
