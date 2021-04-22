@@ -14,5 +14,5 @@
 </ul>
 
 <h2> Keep in touch </h2>
-<img src"https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619082678~hmac=c82601a32db6afbf2de9377ff3570310"></img>
-
+<a href="https://twitter.com/bastienbux"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619083343~hmac=0f555814057e6e4b74bb6aad8fe7ae06" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/bastien-bonnamant/"><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619083734~hmac=46f36ae525c4a5c7cc155b7645a53637" width="50" height="50"></a>
